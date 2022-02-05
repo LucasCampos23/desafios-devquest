@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&family=Roboto+Mono&display=swap');
+
+body {
+    background-color: rgb(23, 138, 247);
+}
+
+* {
+    text-align: center;
+    font-family:'Public Sans', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.paragrafo-do-titulo{
+    color: white;
+    font-size: 27px;
+}
+
+ul{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    list-style-position: inside;
+}
+
+.conteudo{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0,0,0, 0.363);
+    font-size: 30px;
+}
